@@ -1,0 +1,2 @@
+# pwHasher
+Easily hash text
